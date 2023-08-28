@@ -1,0 +1,40 @@
+.wrap{
+    width: 600px;
+    height: 600px;
+    background: lightsalmon;
+    position: relative;
+}
+
+.child{
+    position: absolute;
+    width:160px;
+    height:160px;
+    background: red;
+}
+.child1{    
+    margin: 20px 20px;
+}
+.child2{
+    margin:20px 220px;
+}
+.child3{
+    margin: 20px 420px;
+}
+.child4{
+    margin: 220px 20px;
+}
+.child5{
+    margin: 220px 220px;
+}
+.child6{
+    margin: 220px 420px;
+}
+.child7{
+    margin: 420px 20px;
+}
+.child8{
+    margin: 420px 220px;
+}
+.child9{
+    margin: 420px 420px;
+}

@@ -1,0 +1,66 @@
+.dominio{
+    width: 600px;
+    height: 600px;
+    background: lightsalmon;
+}
+
+.ficha{
+    position: absolute;
+    width:550px;
+    height:350px;
+    position: relative;
+    background-color: antiquewhite;
+}
+
+.ficha2{
+    position: absolute;
+    width:550px;
+    height:350px;
+    position: relative;
+    background-color:aquamarine;
+}
+
+.circulo {
+    background-color: red;
+    border-radius: 50%;
+    width:100px;
+    height:100px;
+    position: absolute;
+}
+
+.circulo1{    
+    margin: 20px 20px;
+}
+.circulo2{
+    margin:20px 220px;
+}
+.circulo3{
+    margin: 20px 420px;
+}
+.circulo4{
+    margin: 220px 20px;
+}
+.circulo5{
+    margin: 220px 220px;
+}
+.circulo6{
+    margin: 220px 420px;
+}
+.circulo7{
+    margin: 20px 20px;
+}
+.circulo8{
+    margin: 20px 220px;
+}
+.circulo9{
+    margin: 20px 420px;
+}
+.circulo10{
+    margin: 220px 20px;
+}
+.circulo11{
+    margin: 220px 220px;
+}
+.circulo12{
+    margin: 220px 420px;
+}
